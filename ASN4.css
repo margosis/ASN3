@@ -1,0 +1,74 @@
+h1{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: bold;
+    color: rgb(50, 87, 207);
+    font-size: 3em;
+    text-shadow: 2px 2px rgba(0, 0, 0, 0.445);
+}
+
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:rgb(30, 153, 210);
+    font-size: 2.1em;
+}
+
+h3{
+    font-size: 1.3em;
+    color: rgb(111, 184, 233);
+    text-align: right;
+}
+
+.fc{
+    font-size: 1.3em;
+    color: rgb(111, 184, 233);
+    text-align: left;
+    font-weight: bold;
+}
+
+.ctg{
+    text-align: right;
+    background-color: rgb(191, 245, 255);
+    border: 2px;
+    margin-left: 200px;
+}
+
+.amazon{
+    text-align: left;
+    background-color: rgb(191, 245, 255);
+    border: 2px;
+    margin-right: 200px;
+}
+
+.autobell{
+    text-align: right;
+    background-color: rgb(191, 245, 255);
+    border: 2px;
+    margin-left: 200px;
+}
+
+.dave{
+    text-align: left;
+    background-color: rgb(191, 245, 255);
+    border: 2px;
+    margin-right: 200px;
+}
+
+.wt{
+    text-align: right;
+    background-color: rgb(191, 245, 255);
+    border: 2px;
+    margin-left: 200px;
+}
+
+.ds{
+    font-size: 1.3em;
+    color: rgb(111, 184, 233);
+    text-align: left;
+    font-weight: bold;
+}
+
+body{
+    background-color:cornsilk;
+    padding-left: 300px;
+    padding-right: 300px;
+}
